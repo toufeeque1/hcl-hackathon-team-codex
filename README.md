@@ -41,7 +41,7 @@ Build a centralized retail ordering platform that:
 | Spring Boot | Backend framework |
 | Spring Security | Authentication & Authorization |
 | JPA / Hibernate | ORM |
-| MySQL / PostgreSQL | Database |
+| MySQL | Database |
 | REST APIs | Communication layer |
 
 ### 🔹 Tools
@@ -107,12 +107,9 @@ Clean separation of concerns following layered architecture.
 - Role
 - Product
 - Category
-- Brand
 - Cart
 - Order
 - OrderItem
-- Inventory
-- Coupon (Stretch)
 
 ---
 
