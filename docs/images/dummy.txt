@@ -1,0 +1,7 @@
+Home Page / Landing Page
+Login Page
+Menu Page
+Product Details
+Cart Page
+Checkout Page
+Order Confirmation
