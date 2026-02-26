@@ -55,6 +55,23 @@ Build a centralized retail ordering platform that:
 | MySQL | Database |
 | REST APIs | Communication layer |
 
+### 🔹 Testing
+
+| Tool | Purpose |
+|------|----------|
+| Postman | API testing |
+| Swagger UI | API documentation & validation |
+
+### 🔹 Integration
+
+| Tool | Purpose |
+|------|----------|
+| Git | Version control |
+| GitHub | Repository hosting |
+| Maven | Dependency management & build |
+| REST APIs | Frontend ↔ Backend communication |
+| CORS Configuration | Cross-origin handling |
+
 ### 🔹 Tools
 - Postman (API Testing)
 - Swagger (API Documentation)
@@ -100,6 +117,20 @@ Build a centralized retail ordering platform that:
 
 ## 🏛️ Project Architecture
 Client (Web/App) -> Controller Layer -> Service Layer -> Repository Layer -> Database
+
+---
+
+## 🧩 Use Case Diagram
+
+<p align="center">
+  <img src="docs/images/use-case-diagram.jpeg" alt="Retail Ordering Use Case Diagram" width="900"/>
+</p>
+
+This diagram illustrates:
+- Customer interactions (Browse, Search, Cart, Order)
+- Admin role-based access
+- Secure & validated REST API communication
+- Backend control flow
 
 
 Clean separation of concerns following layered architecture.
