@@ -34,6 +34,17 @@ Build a centralized retail ordering platform that:
 
 ## 🏗️ Tech Stack
 
+### 🔹 Frontend
+
+| Technology | Purpose |
+|------------|----------|
+| React.js | UI Library |
+| Vite | Build Tool |
+| HTML5 | Structure |
+| CSS3 / Tailwind | Styling |
+| Axios | API Calls |
+| React Router | Navigation |
+
 ### 🔹 Backend
 | Technology | Purpose |
 |------------|----------|
@@ -125,7 +136,6 @@ Clean separation of concerns following layered architecture.
 | GET | `/api/products` | Fetch products |
 | POST | `/api/cart/add` | Add to cart |
 | POST | `/api/orders/place` | Place order |
-| GET | `/api/orders/history` | Order history |
 
 ---
 
