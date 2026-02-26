@@ -83,13 +83,7 @@ Build a centralized retail ordering platform that:
 
 ## 🌟 Stretch Features
 
-- 📧 Email order confirmation
 - 📜 Order history
-- 🔁 Quick reorder option
-- 🎁 Promotions:
-  - Coupon system
-  - Loyalty points
-  - Seasonal offers
 
 ---
 
